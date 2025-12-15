@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I’m Shahd Hani 👋
 
-<!--
-**shahdhani262/Shahdhani262** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!  
 
-Here are some ideas to get you started:
+I’m a **motivated professional learning Marketing, SQL,and Power BI**. I focus on creating practical projects that showcase **data analysis, marketing visuals, and problem-solving skills**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 What I Do
+- SQL queries and database projects
+- Data visualization using Power BI
+- Marketing strategies and social media visuals
+
+---
+
+## 🚀 Skills & Tools
+**Data & Analytics:** SQL, Power BI, Excel  
+**Marketing & Design:** Canva, Social Media
+**Other Tools:** GitHub, Microsoft Office  
+
+---
+
+## 📂 Featured Projects
+- **SQL Practice:** Sample queries and exercises  
+- **Power BI Dashboard:** Interactive dashboards for insights   
+
+*(Check the repositories above to see my work)*
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn]([https://www.linkedin.com/in/shahd-hani-12404a348/]
+- [Portfolio][https://drive.google.com/drive/u/0/folders/1-6e9LHj1L0zbIGZ82HRSwIHF67iDoJyi]
+
+---
+
+💡 I’m always learning and improving — welcome to explore my projects!  
+
