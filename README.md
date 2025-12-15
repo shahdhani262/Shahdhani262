@@ -30,7 +30,7 @@ I’m a **motivated professional learning Marketing, SQL,and Power BI**. I focus
 
 ## 📫 Connect with Me
 - [LinkedIn]([https://www.linkedin.com/in/shahd-hani-12404a348/]
-- [Portfolio][https://drive.google.com/drive/u/0/folders/1-6e9LHj1L0zbIGZ82HRSwIHF67iDoJyi]
+- [Portfolio][https://drive.google.com/file/d/1EFqNuV5zROsVzkz93VRjUQhj22xwr1d0/view?usp=sharing]
 
 ---
 
