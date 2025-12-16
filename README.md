@@ -21,7 +21,7 @@ I’m a **motivated professional learning Marketing, SQL,and Power BI**. I focus
 ---
 
 ## 📂 Featured Projects
-- **SQL Practice:** Sample queries and exercises (https://github.com/shahdhani262/SQL-Project-)
+- **SQL Projects:** Sample queries and exercises (https://github.com/shahdhani262/SQL-Project-)
 - **Power BI Dashboard:** Interactive dashboards for insights (https://github.com/shahdhani262/Soul-Performance-Daashboard/tree/main)   
 
 *(Check the repositories above to see my work)*
